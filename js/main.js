@@ -103,9 +103,9 @@
 })(jQuery);
 // gallery
 Fancybox.bind('[data-fancybox="gallery"]',{
-    Slideshow:{
-        playOnStart:true,
-    },
+    // Slideshow:{
+    //     playOnStart:true,
+    // },
 
 });
 
